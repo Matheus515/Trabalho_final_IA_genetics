@@ -7,6 +7,8 @@ Aqui disponibilizo o código feito no google colab em python para rodar os 3 alg
 
 No mesmo notebook há um codigo que compara os modelos com a lista de resultados dos métodos tradicionais (GWAS), pegando os top 20 SNPs do modelo e vendo se os encontram na lista (ou se são correlacionados com algum da lista >0.3).
 
+Importante destacar que os resultados dos codigos rodados de cada modelo estão todos salvos em pastas com nomes dedutiveis ex : "rf_Protein_com_ajuste"; "rf_Protein_sem_ajuste" ...
+
 Também disponibilizo os dados:
 
 A matriz de marcadores genéticos (para proteína e lactose)
